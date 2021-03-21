@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I'm newly-born, and I don't know which direction North is..yet!
